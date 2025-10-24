@@ -1,2 +1,11 @@
-# gf-fila-03
-actividad
+<!doctype html>>
+<html lang="es">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Galaxy Defenders</title>
+  </head>
+  <body>
+    <h1>Hola, Galaxy Defenders</h1>
+    <p></p>Página inicial.</p>
+  </body>
+</html>
