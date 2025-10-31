@@ -11,3 +11,4 @@ actividad
 &lt;p&gt;Página inicial.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
+<p>Hola</p>
