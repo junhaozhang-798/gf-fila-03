@@ -1,2 +1,14 @@
 # gf-fila-03
 actividad
+&lt;!doctype html&gt;
+&lt;html lang=&quot;es&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;utf-8&quot; /&gt;
+&lt;title&gt;Galaxy Defenders&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;Hola, Galaxy Defenders&lt;/h1&gt;
+&lt;p&gt;Página inicial.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+<p>Hola</p>
